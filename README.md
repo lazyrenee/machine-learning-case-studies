@@ -3,7 +3,7 @@
 ## Content
 
 * [Payment Fraud Detection](/Payment_Fraud_Detection)
-- build and deploy a supervised, LinearLearner model in SageMaker. You'll tune a model and handle a case of class imbalance to train a model to detect cases of credit card fraud.
+  - build and deploy a supervised, LinearLearner model in SageMaker. You'll tune a model and handle a case of class imbalance to train a model to detect cases of credit card fraud.
 * [Plagiarism Detection](/Plagiarism_Detection)
 - Build an end-to-end plagiarism classification model. Apply your skills to clean data, extract meaningful features, and deploy a plagiarism classifier in SageMaker.
 
